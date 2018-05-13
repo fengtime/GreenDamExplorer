@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\5f06946b9a84467428448fd9aa32efecc657aa7c\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\picture_wallt_view_anim.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\picture_wallt_view_anim.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_action.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\alpha_action.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\feature_anim2scale_in.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\feature_anim2scale_in.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\video_wall_anim_layout.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\video_wall_anim_layout.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\5f06946b9a84467428448fd9aa32efecc657aa7c\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\5f06946b9a84467428448fd9aa32efecc657aa7c\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\video_wallt_view_anim.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\video_wallt_view_anim.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\favorite_list_anim_layout.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\favorite_list_anim_layout.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\file_list_anim_layout.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\file_list_anim_layout.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\feature_scale_in.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\feature_scale_in.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\feature_scale_out.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\feature_scale_out.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_show.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\pop_show.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\5f06946b9a84467428448fd9aa32efecc657aa7c\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha_action_long.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\alpha_action_long.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\feature_alpha_out.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\feature_alpha_out.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\feature_anim2scale_out.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\feature_anim2scale_out.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pie_chart_animation.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\pie_chart_animation.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\5f06946b9a84467428448fd9aa32efecc657aa7c\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\loading_animation.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\loading_animation.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\feature_rotate_cricle.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\feature_rotate_cricle.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\favorite_list_view_anim.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\favorite_list_view_anim.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_hide.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\pop_hide.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\picture_wall_anim_layout.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\picture_wall_anim_layout.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\file_list_view_anim.xml",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\anim\\file_list_view_anim.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\5f06946b9a84467428448fd9aa32efecc657aa7c\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

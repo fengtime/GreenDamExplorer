@@ -1,0 +1,622 @@
+[
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\play.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\radio_off.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\radio_off.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abs__ic_search_api_holo_light.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\abs__ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bar_add.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\bar_add.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feature_arrow_up.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\feature_arrow_up.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_wav.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_wav.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_asf.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_asf.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\c_icon_application.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\c_icon_application.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\c_icon_bluetooth.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\c_icon_bluetooth.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_picture.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_picture.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\audio_play_2.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\audio_play_2.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\selected.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\selected.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zip.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\zip.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abs__ic_menu_share_holo_dark.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\abs__ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_progress.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\img_progress.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_mp4.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_mp4.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feature_start_btn_normal.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\feature_start_btn_normal.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_wma.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_wma.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toolbar_sort.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\toolbar_sort.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\empty_photo.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\empty_photo.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toolbar_view_list.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\toolbar_view_list.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_mov.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_mov.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_html.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_html.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\c_icon_audio.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\c_icon_audio.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toolbar_setting.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\toolbar_setting.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feature_folder.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\feature_folder.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_word.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_word.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vertical_line.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\vertical_line.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\c_icon_document.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\c_icon_document.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abs__ic_search.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\abs__ic_search.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\c_icon_archive.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\c_icon_archive.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abs__ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_folder.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_folder.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\play_green.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\play_green.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ab_ic_back_light_pressed.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\ab_ic_back_light_pressed.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_open_red.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_open_red.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_move.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_move.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feature_catefory.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\feature_catefory.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_exit.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_exit.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_navi_next.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\img_navi_next.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_empty.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\img_empty.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_avi.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_avi.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_enter.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_enter.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_refresh.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_xls.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_xls.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shade_bg.9.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\shade_bg.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_head.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_head.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_copy.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_copy.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_xml.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_xml.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feature_arrow_down.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\feature_arrow_down.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_rename.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_rename.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_delete_green.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_green.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\favorite_icon_red.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\favorite_icon_red.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_ppt.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_ppt.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_checked.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\img_checked.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arr.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\arr.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\category_book.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_book.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feature_start_btn_pressed.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\feature_start_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_delete_red.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_delete_red.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_select_nothing.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_select_nothing.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_open_green.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_open_green.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_uncheck.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\img_uncheck.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_cancel_2.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_cancel_2.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\c_icon_image.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\c_icon_image.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_phone.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_light_arrow.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\img_light_arrow.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_select_all.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_select_all.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_share_holo_dark.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_share_holo_dark.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_apk.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_apk.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_rar.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_rar.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_pdf.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_pdf.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\c_icon_download.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\c_icon_download.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_txt.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_txt.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feature_logo.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\feature_logo.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feature_more_txt.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\feature_more_txt.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_share_on.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_share_on.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_log.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_log.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bar_refresh.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\bar_refresh.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_info.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_info.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_zip.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_zip.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feature_dot.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\feature_dot.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_bookmark.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_bookmark.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\favorite_icon_green.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\favorite_icon_green.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toolbar_new_node.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\toolbar_new_node.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\radio_on.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\radio_on.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\c_icon_apk.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\c_icon_apk.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feature_favorite.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\feature_favorite.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_chm.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_chm.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\favorite_border_checked.9.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\favorite_border_checked.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_detail.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_detail.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_top_navi_bg.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\img_top_navi_bg.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\favorite_border.9.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\favorite_border.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_mpeg.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_mpeg.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_favorite.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_archive.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_archive.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_cancel.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_cancel.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_category.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_category.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abs__ic_menu_share_holo_light.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\abs__ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\category_video.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\category_video.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_sdcard.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\ic_sdcard.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_doc.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_doc.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bar_new_node.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\bar_new_node.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_unknow.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_unknow.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_del.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_del.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_transport.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_transport.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_excel.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_excel.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\video_border.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\video_border.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\i_logo.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\i_logo.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toolbar_refresh.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\toolbar_refresh.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_more.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\op_more.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\divider_v.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\divider_v.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\c_icon_video.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\c_icon_video.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xml.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\xml.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\toolbar_view_grid.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\toolbar_view_grid.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_wmv.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_wmv.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_mp3.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_mp3.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feature_scroll_txt.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\feature_scroll_txt.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\type_vob.png",
+        "source": "D:\\CKWork\\test\\GreenDamExplorer\\app\\src\\main\\res\\drawable-hdpi\\type_vob.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\90dba44cff2516f06dd19097ee7cf1d167918456\\output\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    }
+]

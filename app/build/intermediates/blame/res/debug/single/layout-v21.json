@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\257feaafd08d9bec936c32d2524c1c57386e1122\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\257feaafd08d9bec936c32d2524c1c57386e1122\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\257feaafd08d9bec936c32d2524c1c57386e1122\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\CKWork\\test\\GreenDamExplorer\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\fangr\\.android\\build-cache\\257feaafd08d9bec936c32d2524c1c57386e1122\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
